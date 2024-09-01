@@ -1,0 +1,72 @@
+
+
+Duplicate Photo Cleaner
+
+Product: Duplicate Photo Cleaner
+Build: 7.17.3.45
+Windows 11 (22H2, Build 22621.1702, 64-bit Edition)
+Product Key: CE932FB6AC86039194F870911404B855
+License: TAP-GCS-THG
+
+
+
+
+To Do
+-----
+DAT
+
+DAT Sales Deck - Incorporate Comments - Done
+DCICA Website - WIP
+Create Resource Candidate Details Form - WIP
+CV Email Updated with both BGV and CRCD form links - WIP
+
+*#	MVP 	*
+1	Vendors Onboard page 	
+2	Onboard All Members 	
+3	Member login page	
+4	Members expiry info 	
+5	Members contribution 	
+6	Volunteer login	If a member is volunteer should see both 6 and 9 functionalities
+7	Events	Publish, RSVP, Payment
+8	Loyalty program functionality
+
+I give my explicit consent to DAT to submit my profile for this job posting to prospective clients.
+
+BGV
+
+CD
+
+
+pooja
+hr@datarchtech.com
+.P00j@9403335199
+
+0. JD
+1. Cv Uploaded
+2. Check for applicability with JD using Ctrl F
+3. Then send 4 point email
+
+Post a Job - [submit_job_form]
+Job Dashboard - [job_dashboard]
+Jobs - [jobs]
+
+
+wp_redirect(admin_url('https://datarchtech.com/wp-admin'));
+
+window.location.href = "https://datarchtech.com/wp-admin";
+
+https://datarchtech.com/wp-admin/edit.php?post_type=awsm_job_application
+
+
+Hi, DAT is hiring exp. professionals like you for this opening - https://datarchtech.com/jobs/sr-program-manager-dat2024325/ If you are open for a change, plz. apply. Pooja (sales@datarchtech.com)
+
+Priority
+--------
+Resume Validation
+LinkedIn
+FaceBook
+Twitter
+
+do it with datllc14@gmail.com
+
+
